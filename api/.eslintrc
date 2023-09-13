@@ -1,0 +1,3 @@
+{
+  "extends": "@dkshs/eslint-config/node"
+}
